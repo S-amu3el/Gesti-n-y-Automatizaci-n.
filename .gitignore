@@ -1,0 +1,18 @@
+# ============================================================
+# PROTECCION DE DATOS PERSONALES
+# Por defecto NADA de la carpeta datos/ se publica. Solo se
+# permiten archivos de ejemplo que incluyan "demo" en el nombre.
+# ============================================================
+datos/*
+!datos/LEER.md
+!datos/*demo*.xlsx
+!datos/*demo*.csv
+
+# Archivos temporales de Excel / Office
+~$*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
