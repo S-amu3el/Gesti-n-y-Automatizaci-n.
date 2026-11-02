@@ -20,13 +20,4 @@ publican** en este repositorio (Ley N° 19.628, Chile). Por eso el `.gitignore`
 bloquea todo lo que haya en `datos/` salvo los archivos que incluyen la
 palabra `demo` en el nombre.
 
-## Si quieres regenerar o ampliar los datos de ejemplo
 
-1. Abre la planilla real en Google Sheets.
-2. Archivo -> Descargar -> Microsoft Excel (.xlsx).
-3. Abre el archivo en Excel y **reemplaza todos los nombres y RUT reales por
-   datos ficticios** (ej: "Alumno Ejemplo Uno", RUT "90.123.456-7").
-4. Verifica que no quede ninguna celda con datos reales (usa Ctrl+B para
-   buscar).
-5. Guarda el archivo con un nombre que incluya la palabra `demo` y colocalo
-   en esta carpeta.
