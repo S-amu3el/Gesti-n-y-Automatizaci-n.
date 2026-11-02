@@ -65,9 +65,7 @@ Este repositorio **no contiene datos personales reales**. Las planillas original
 1. **Código**: revisa el `Codigo.gs` de cada módulo, documentado con comentarios.
 2. **Fórmulas**: la lógica del porcentaje de avance está explicada en [FORMULAS.md](01-registro-practica-ingles/FORMULAS.md).
 3. **Planilla de ejemplo**: descarga un archivo desde la carpeta [`datos/`](datos/) y ábrelo en Excel o Google Sheets.
-4. **Vista visual**: consulta las capturas en las carpetas `capturas/` de cada módulo.
 
 ## Contacto
 
-**【Tu nombre】** — 【tu rol, ej. Administrativo(a) académico / Analista de datos】
-[LinkedIn](【enlace a tu LinkedIn】) · 【tu-correo@ejemplo.com】
+**Samuel Elías Pizarro Alzamora** — 【Ingeniera en Informática 】【elias.usu23@gmail.com】
