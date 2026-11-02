@@ -36,10 +36,10 @@ portafolio-idioma-ingles/
 ├── 01-registro-practica-ingles/
 │   ├── Codigo.gs            # automatización del registro de horas
 │   ├── FORMULAS.md          # documentación del cálculo de % de avance
-│   └── capturas/            # capturas del registro y dashboard
+│  
 ├── 02-finalizaron-ingles/
 │   ├── Codigo.gs            # importación automática de finalizados
-│   └── capturas/            # capturas de la planilla de finalizados
+│ 
 └── datos/                   # planillas de ejemplo anonimizadas
 ```
 
