@@ -5,11 +5,10 @@
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
 
-> **Nota del autor:** antes de publicar, completa los textos entre 【corchetes】.
 
 ## Descripción
 
-【Ajusta esta descripción a tu contexto real. Ejemplo:】 Como parte de la gestión administrativa del requisito de idioma inglés, desarrollé un sistema de planillas conectadas que registran las horas de práctica de cada estudiante durante el semestre, calculan automáticamente su avance según la carrera y detectan cuándo un alumno cumple el 100%, importándolo a la planilla de finalizados con su decreto correspondiente.
+Como parte de la gestión administrativa del requisito de idioma inglés, desarrollé un sistema de planillas conectadas que registran las horas de práctica de cada estudiante durante el semestre, calculan automáticamente su avance según la carrera y detectan cuándo un alumno cumple el 100%, importándolo a la planilla de finalizados con su decreto correspondiente. Al comienzo de la jornada se solicita la descarga del archivo con un mensaje indicando que se requiere un respaldo con la ayuda de no tener perdida de información.
 
 ## Módulos del sistema
 
